@@ -3,7 +3,6 @@ Completed this project as part of my Power BI internship with United Network Of 
 
 KEY HIGHLIGHTS :
 
-
 Step 1 - Data Transformation:
 
 1.Employed DAX to compute Price Ranges.
