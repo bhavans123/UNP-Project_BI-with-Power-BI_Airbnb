@@ -9,6 +9,7 @@ KEY HIGHLIGHTS :
 PBIX file link: https://drive.google.com/file/d/1yCMNlUcW7DrY2q9_cjamMP6GOKlZ09oh/view?usp=sharing
 
 
-PDF Link: https:https://drive.google.com/file/d/1bNK6hvW6pFa4WWkVxfpZyu4_nHrZGIhU/view?usp=sharing
+PDF Link: https:https://drive.google.com/file/d/1nf6aDsUequM1--hHP2q9sWUfaE6AWlGc/view?usp=sharing
+
 
 
