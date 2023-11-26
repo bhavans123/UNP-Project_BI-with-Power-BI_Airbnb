@@ -2,10 +2,11 @@
 Completed this project as part of my Power BI internship with United Network Of Professionals(UNP).
 
 KEY HIGHLIGHTS :
+
+
 Step 1 - Data Transformation:
 
 1.Employed DAX to compute Price Ranges.
-
 2. Eliminated null values to ensure data accuracy for analysis purposes.
 
 Step 2 - Dashboard Creation:
